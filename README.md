@@ -1,8 +1,8 @@
 ### Creando un sueño, creando videojuegos
+***
 
 visualizar directamente el proyecto aquí: [https://sakuralain.github.io/creando/index.html](https://sakuralain.github.io/creando/index.html)
 
-***
 ##
 ## Repositorio GitHub: 
 
