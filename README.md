@@ -1,8 +1,5 @@
 ### Creando un sueño, creando videojuegos
 
-## PrevenciónDelAcoso.com
-
-.
 
 ***
 ##
