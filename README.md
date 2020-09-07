@@ -6,7 +6,7 @@ visualizar directamente el proyecto aquí: [https://sakuralain.github.io/creando
 ##
 ## Repositorio GitHub: 
 
-GitHub: https://sakuralain.github.io/creando
+GitHub: https://github.com/SakuraLain/creando
 
 
 ## Fichas de Backlog
