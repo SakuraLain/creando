@@ -2,7 +2,7 @@
 
 ## PrevenciónDelAcoso.com
 
-Página digital para concientizar a los alumnos y maestros de los peligros cotidianos, cualquier alumno y maestro pueda ver información, casos y con ellas hacer conciencia sobre bullying, adiciones, o peligros.
+.
 
 ***
 ##
