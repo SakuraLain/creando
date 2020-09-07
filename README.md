@@ -2,6 +2,8 @@
 
 Desde hace años tengo la idea de aprender a programar videojuegos y sería bueno hacer crear una página web para dar a conocer mis proyectos para ir dándoles a conocer,  que alguien los pueda probar me serviría de motivación para periódicamente estar mostrando avances, también crear una comunidad en torno a esto de crear videojuegos indie  y me puedan sugerir cosas o dialoguemos.
 
+Puede visitar el sitio en : [https://sakuralain.github.io/creando/](https://sakuralain.github.io/creando/) Proyecto.
+
 ***
 ##
 ## Repositorio GitHub: 
@@ -24,20 +26,3 @@ Trello con el sprint planning: https://trello.com/b/rpIaDOFg/creando-un-sue%C3%B
 6. MDN web docs. (11 ago. 2020). JavaScript. De MDN web docs.  Recuperado de  https://developer.mozilla.org/es/docs/Web/JavaScript 
 
 
-***
-##
-### Instruciones
-
-Pasos a seguir:
-
-Descarga o clonar mi repositorio
-
-En la consola de comandos (cdm) usar:
-npm start
-
-
-O podemos visualizar directamente el proyecto aquí: [https://github.com/SakuraLain/creando](https://github.com/SakuraLain/creando) Proyecto.
-
-
-***
-Paquetes Ejecutables: [https://sakuralain.github.io/creando/](https://sakuralain.github.io/creando/) Proyecto.
